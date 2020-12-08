@@ -1,0 +1,23 @@
+{
+  "name": "SBNetwork",
+  "keywords": "SBNetwork",
+  "description": "Build simple master/client networks with nRF24L01 transmitter.",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/astrapi/SBNetwork"
+  },
+  "authors": [
+      {
+          "name": "Michael Otto",
+          "url": "https://github.com/astrapi",
+          "maintainer": true
+      }
+  ],
+  "version": "1.1.0",
+  "license": "MIT",
+  "homepage": "https://github.com/astrapi/SBNetwork",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
+
+
